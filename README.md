@@ -65,6 +65,11 @@ To use the NK Codes💛 Image Search Engine web application, follow these steps:
 - "Show more" button loads additional images for the same search query.
 
 - Responsive design with a clean and user-friendly interface.
+
+## Deployment Status 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/458ff77d-39ad-4ef2-b87b-126d33f55e56/deploy-status)](https://app.netlify.com/sites/kanasu-image-search-engine/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
